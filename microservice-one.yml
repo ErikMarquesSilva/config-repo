@@ -1,1 +1,2 @@
-microservice-one.value: 112233445566778899
+microservice-one:
+  value: 112233445566778899
